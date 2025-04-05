@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TRYSTERO</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on TRYSTERO</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© Athul</copyright>
+    <lastBuildDate>Fri, 04 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Fri, 04 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&amp;ldquo;A man sets himself the task of portraying the world. Through the years he peoples a space with images of provinces, kingdoms, mountains, bays, ships, islands, fishes, rooms, instruments, stars, horses, and individuals. A short time before he dies, he discovers that the patient labyrinth of lines traces the lineaments of his own face.&amp;rdquo;&#xA;— Jorge Luis Borges</description>
+    </item>
+    <item>
+      <title>Words Hold Worlds</title>
+      <link>http://localhost:1313/posts/words-hold-worlds/</link>
+      <pubDate>Fri, 04 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/words-hold-worlds/</guid>
+      <description>Part I: Words Hold Worlds on etymology, recursion, and the deep weird of language&#xA;&amp;ldquo;In the beginning was the Word, and the Word was a mistake.&amp;rdquo;&#xA;—Eliza Morgenstern, Linguistic Aporias (1978)&#xA;I. The Lie of Meaning Language is a hallucination that pretends it isn&amp;rsquo;t one.&#xA;Words don&amp;rsquo;t mean, not really, they defer meaning. They triangulate it. A word is like a beam of light in fog - it suggests a direction, illuminates particles in its path, but what it ultimately reveals depends on where each observer stands.</description>
+    </item>
+  </channel>
+</rss>
