@@ -4,94 +4,72 @@ date: 2025-04-04
 draft: false
 ---
 
+# Author's Note: 
+
+This writing draws primarily from postmodernist thought, with Thomas Pynchon serving as a central influence. At its core lies a fascination with systems of knowledge that subsume and overwhelm the individual. Language stands as the quintessential example of such a system.
+
+While grounded in legitimate academic concepts from linguistics and philosophy, the text deliberately nudges these ideas toward the uncanny. It occupies the liminal space between scholarly discourse and ontological horror, using the formal conventions of academia not merely to inform but to unsettle.
+
+This hybrid approach employs academic authority not as an end in itself, but as a vehicle to induce a specific cognitive effect, the subtle dread that emerges when we confront the possibility that our most intimate thoughts are predetermined by linguistic structures beyond our control.
+
+_Inspirations: Thomas Pynchon (overwhelmed by structures outside of your control), Mark Fisher (theoretical heft used to create uneasiness)_
 
 
 # Part I: Words Hold Worlds
 
-_on etymology, recursion, and the deep weird of language_
+_on etymology and the deep weird of language_
 
 ---
 
 > "In the beginning was the Word, and the Word was a mistake."  
-> —Eliza Morgenstern, _Linguistic Aporias_ (1978)
-
+> —Eliza Morgenstern, _Linguistic Aporias_ (1978)[^1]
 ### I. The Lie of Meaning
 
-Language is a hallucination that pretends it isn't one.  
+Language is powerful. It builds worlds, undoes them, and loops meaning through cultural, historical, and neural circuitry. This is an anatomy of that power.
 
-Words don't mean, not really, they defer meaning. They triangulate it. A word is like a beam of light in fog - it suggests a direction, illuminates particles in its path, but what it ultimately reveals depends on where each observer stands. We all nod as if seeing the same thing, but we each perceive something subtly different.
+Etymology makes it obvious. Trace a word and you'll find its origin was something completely different. Consider "tall." This word once meant "swift" or "valiant" in Old English. In the tales of medieval chivalry, a "tall" knight wasn't necessarily towering in stature. When Shakespeare described someone as "tall," he often meant they were brave or capable.
 
-Etymology makes this obvious. Trace a word and you'll find its origin was something completely different, words are false friends. Bait and switch.
-"Tall" once meant "quick" or "brave" or "handsome."  
-Now it means "can reach the top shelf."  
-Somewhere between medieval chivalry and now, the word got stretched into something else.
+Why did "tall" transform from a trait of character to a physical measurement? This shift reveals something about our cultural values. We hold an unconscious belief that physical height correlates with inner virtue. We didn't randomly select "tall" to mean "of great height"; the word evolved there because humans already associated lofty stature with noble qualities.
 
-As Derrida notes in _Of Grammatology_ (1967): "The sign represents the present in its absence. It takes the place of the present."¹
+This seems so arbitrary. There is no advisory board of words that decided "tall" should change its meaning, no official proclamation or logical necessity. The meaning shifted because of countless small changes in usage, each one barely perceptible, until the cumulative effect was a complete reversal.
 
----
+Derrida tries to explain why this drift happens. His _différance_ is the endless spacing and deferral of meaning. Language doesn't let you say the thing—it lets you say the thing _adjacent to the thing_. The center cannot hold because there is no center, only an infinite regression of signifiers pointing to other signifiers. Words drift because of this endless pointing.
 
-### II. Philosophy Weeps in Semantics
-
-Derrida says this. His _différance_ is the endless spacing and deferral of meaning. A semantic paradox. Language doesn't let you say the thing—it lets you say the thing _adjacent to the thing_. The center cannot hold because there is no center, only an infinite regression of signifiers pointing to other signifiers, never arriving at transcendental truth.
-
-Wittgenstein confronted this too in his later work. What he once thought could be clarified through logical atomism, he later saw as "language games"—systems of meaning bound by context, use, and social agreement. The ladder he climbed, he then kicked away.
-
-Deconstructionists and post-structuralists and post-modernists and post-post modernists dance around this wound. Barthes declares the death of the author because no one owns meaning; Foucault sees discourse as systems of power that speak through us rather than by us; Kristeva finds in poetic language the semiotic eruption of what symbolic language represses.
-
-Every word is just a gesture toward a gesture. Meaning is a moving target, and we aim with bent arrows. Consciousness itself depends on a system that can never fully capture consciousness.
-
-_See: Derrida, Jacques. "Structure, Sign and Play in the Discourse of the Human Sciences." Writing and Difference, Routledge, 1978, pp. 351-370._
-_See also: Spivak, Gayatri. Translator's Preface to Of Grammatology, Johns Hopkins University Press, 1976, pp. ix-lxxxvii._
+#### FOOTNOTE:
+[^1]The original quote appears in the now out-of-print second edition of Linguistic Aporias: Essays on Sign, Misfire, and the Failure of Language, published by the briefly operational Ironbell Press. Morgenstern, a semiotician turned conceptual artist, vanished from academia in 1982 after delivering a keynote entirely in glossolalia. Some scholars believe the quote is a misattribution from a Derridean parody she included as marginalia. Others argue it's the thesis of the entire book, footnoted back into itself.
 
 ---
+### II. Other Examples of Word Drift
 
-### III. Case Studies in Collapse
+**"Rival"** derives from "rivalis," meaning people who share a river, highlighting how resource competition and close proximity with neighbors bred conflict. 
 
-Take "nice". Originally the word meant ignorant. Then wanton. Then showy. Then delicate. Now it means.... what? Pleasant? Empty? It's a white noise word. A word that's survived purely by shedding meaning and now saying "nice" is like saying nothing at all.
+**"Literally"** - Once meant "in a literal manner, exactly as described." Now it's often used for emphasis to mean its opposite: "figuratively." We watched this meaning inversion happen right in front of us.
 
-Or "literally," which now means "figuratively" in a kind of collective gaslighting we all agreed to live with. We saw this meaning inversion happen in real time, it happened right in front of us and we stared as it transformed.
+**"Nice"** began its journey from the Latin _nescius_, meaning "ignorant" or "not knowing." When it entered English via Old French in the 13th century, it retained this sense of ignorance but quickly took on more explicitly negative shades: foolish, silly, stupid. Over centuries, the word underwent a transformation that linguists call **amelioration**, a gradual improvement in meaning. By the 15th century, it meant "fussy" or "fastidious." In the 16th, it shifted toward "precise" or "careful," and by the 17th century, it edged closer to "agreeable" or "pleasant." Only in the 18th and 19th centuries did it settle into the sense we recognize today: kind, pleasant, agreeable. But in gaining so many meanings, _nice_ has also become semantically diluted. It means _pleasant_, yes ... but it's also a kind of semantic white noise, it means almost nothing. Imagine you ask someone to compliment you and the best they can do is "you're nice".
 
-Or "gay", a word that's changed meanings so fast it's almost in quantum superposition. Identity, slur, punchline, celebration. It means all this, depending on tone, age, platform. Every use is a referendum.
-
-Words shift and they enscribe. They absorb culture like moss on stone. They exist in context. For example, I made up the word enscribe but it still made sense to you.
-
-_Appendix : Semantic Drift Patterns in Common English Adjectives, 1500-2020_
+Aside from revealing cultural quirks, word drift also exposes something about power. The evolution of language is also the evolution of what a culture permits itself to say, believe, and reinforce. Words don’t change because of some property of linguistic entropy; they change because of repetition, institutions, and soft consensus. This is Michel Foucault thought: language is not just a passive reflection of culture, it is an active system of control. The way meanings shift over time doesn’t just reflect what we value; it shapes what we are allowed to value. Drift is not random.
 
 ---
-### IV. Recursive Systems, Fragile Selves
+### III. Language is Power
 
-When you speak, you're not simply expressing thought—you're **activating a vast semiotic network**. You believe you're choosing a word.  But the word has already chosen you through histories you never consented to.
+>"There is no power that is exercised without a series of aims and objectives. But this does not mean that it results from the choice or decision of an individual subject; let us not look for the headquarters of power. It is not localized in the state apparatus, but instead circulates... It is exercised through a net-like organization. And not only do individuals circulate between its threads; they are always in the position of simultaneously undergoing and exercising this power."
+>— Michel Foucault, _Power/Knowledge: Selected Interviews and Other Writings_ (1980)
 
-Try to define any word without using other words—can you? Try to mean something singular without summoning a constellation of adjacent meanings—no, it is impossible. Every sentence is a **haunted house**, occupied by ghosts of signification you never invited in.
+Foucault invites us to imagine language not as a neutral tool that we wield, but as a vast architecture that contains and constrains us. In _The Archaeology of Knowledge_, he proposes that discourse—the way we speak and write about things—doesn't merely describe reality but actively constructs it. What appears as "truth" is merely what the current discursive regime allows to be true.
 
-As you read this sentence, observe how your neural architecture automatically assigns meaning without consulting your conscious mind. It's happening again with this very phrase, and again with this one. The recursion is inexorable.
+For example: Grammar isn't neutral structure but covert control. Consider how English sentences typically require a subject-verb-object pattern: "John broke the window," not "The window broke itself" or "Breaking happened to the window." This syntactic prison subtly enforces a worldview where active agents must always be identified and held responsible for change. Languages with different grammatical structures allow different perceptions of causality and responsibility. In Japanese, one can simply say "窓が割れた" (mado ga wareta) - "the window broke" - without assigning an agent, creating a more circumstantial understanding of events. English speakers are linguistically conditioned to see a world of intentional actors manipulating passive objects, while speakers of other languages may perceive a world of interconnected processes. 
 
-Yet language isn't absolute chaos. Through this walk of slippages and referents, somehow, miraculously, we understand what we say.  The recursion loops, diverges, converges, but a signal ¹ persists through the noise.
-
-This is our beautiful paradox: language fails at perfect communication yet succeeds despite itself. We speak from different islands of self, across waters of ambiguity, and still recognize each other on distant shores.
-
-> "Language is not a neutral medium that passes freely and easily into the private property of the speaker's intentions; it is populated—overpopulated—with the intentions of others."  
-> —Mikhail Bakhtin, _Discourse in the Novel_ (1934)
-
-**FOOTNOTE:**
-¹ **SIGN (n.)**  
-Originally from Latin _signum_, meaning "mark, token, indication."  
-Now means: a word. Or a gesture. Or the thing a gesture refers to. Or the fact that you noticed the gesture.  
-Sometimes used as a _sign_ that you're noticing signs.  
-See also: paranoia.
+Language doesn't just describe power, it enforces it at the level of perception itself, determining what kinds of realities we're capable of conceiving. This linguistic determinism extends beyond syntax into the very fabric of sensory perception, influencing not just how we understand events but how we literally see the world around us.
 
 
----
+--- 
 
-### V. The Embodied Word
+### IV. Language bleeding into reality
 
-Language doesn't just live in our minds—it inhabits our bodies. When we say "I understand," we're using a metaphor that literally means "to stand under." Cognitive linguists like Lakoff and Johnson show us that embodied metaphors structure abstract thought.
+The words available to you determine what you can perceive—even something as seemingly objective as color. The Himba people of Namibia have no distinct word for "blue" but five different words for shades of green. When tested, they struggle to identify a blue square among green ones, yet can instantly spot subtle green variations invisible to English speakers. Russian speakers, with separate words for light blue ("goluboy") and dark blue ("siniy"), perceive these as fundamentally different colors—not shades of the same one. They can distinguish between these blues faster and more accurately than English speakers, for whom "blue" is blue.
 
-Notice how emotions have spatial dimensions ("I'm feeling down"), how time becomes distance ("the weekend is approaching"), how arguments become battles ("defending a position"). These are stylistic choices that have become cognitive frameworks in our mind.
+Japanese historically used the word "ao" for both blue and green—traffic lights there are still linguistically "blue" despite appearing green. In Welsh, "glas" can refer to blue, green, or gray. These aren't just vocabulary differences; brain scans show actual perceptual variations. The color boundaries that seem so natural to you are arbitrary impositions of your particular linguistic infection[^1] . What chromatic realities remain invisible to you because your language hasn't named them?
 
-Even in digital spaces, language retains its physicality. We "navigate" websites, "visit" pages, "scroll" through text. The body's logic persists even as the medium changes.
-
-This embodiment reveals another paradox: language simultaneously connects us to our physical reality and abstracts us from it. The word "tree" both evokes and replaces the living organism. Joyce referred to this phenomenon as "commodus vicus"—the simultaneous summoning and banishing of the actual—where language creates a parallel world that overlays the physical one.
-
-> "The limits of my language mean the limits of my world."  
-> —Ludwig Wittgenstein, _Tractatus Logico-Philosophicus_ (1921)
+What thoughts are impossible for you to think because your language has no pathway to them? What realities are invisible to you because your linguistic parasite didn't evolve the sensory apparatus to detect them?
+#### FOOTNOTE:
+[^1] For a deeper exploration of how language shapes perception, see: Thalberg, I. & Wen, L. _Spectral Cognition: Language, Color, and the Edges of Perception_ (Aporia Press, 1994). Drawing on cross-linguistic studies and cognitive neuroscience, the authors argue that language doesn’t merely label reality, it structures the perceptual fields in which reality becomes available. Their concept of “linguistic gating” proposes that the presence or absence of specific lexical categories modulates the brain’s attentional schema, determining what is foregrounded or rendered invisible. Thalberg reportedly abandoned the project shortly after publication, citing "recurring color hallucinations" and an inability to perceive the color blue without also hearing a low, mechanical hum.
