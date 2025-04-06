@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#!/bin/bash
+
 set -e
 
 echo "🔁 Switching to main branch..."
@@ -20,8 +22,9 @@ git checkout gh-pages
 
 echo "🔥 Clearing old gh-pages contents..."
 git rm -rf .
-cp -r /tmp/hugo-deploy/* .
-cp /tmp/hugo-deploy/.* . 2>/dev/null || true
+
+# exclude theme from deploy
+rsync -av --progress /tmp/hugo-deploy/ . --exclude themes
 
 echo "✅ Committing changes..."
 git add .
