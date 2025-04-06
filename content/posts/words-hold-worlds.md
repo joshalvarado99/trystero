@@ -18,11 +18,11 @@ _on etymology and the deep weird of language_
 
 Language is powerful. It builds worlds, undoes them, and loops meaning through cultural, historical, and neural circuitry. This is an anatomy of that power.
 
-Etymology makes it obvious. Trace a word and you'll find its origin was something completely different. Consider "tall." This word once meant "swift" or "valiant" in Old English. In the tales of medieval chivalry, a "tall" knight wasn't necessarily towering in stature. When Shakespeare described someone as "tall," he often meant they were brave or capable.
+Trace a word and you'll find its origin was something completely different. Consider "tall." This word once meant "swift" or "valiant" in Old English. In the tales of medieval chivalry, a "tall" knight wasn't necessarily towering in stature. When Shakespeare described someone as "tall," he often meant they were brave or capable.
 
 Why did "tall" transform from a trait of character to a physical measurement? This shift reveals something about our cultural values. We hold an unconscious belief that physical height correlates with inner virtue. We didn't randomly select "tall" to mean "of great height"; the word evolved there because humans already associated lofty stature with noble qualities.
 
-This seems so arbitrary. There is no advisory board of words that decided "tall" should change its meaning, no official proclamation or logical necessity. The meaning shifted because of countless small changes in usage, each one barely perceptible, until the cumulative effect was a complete reversal.
+There is no advisory board of words that decided "tall" should change its meaning, no official proclamation or logical necessity. The meaning shifted because of countless small changes in usage, each one barely perceptible, until the cumulative effect was a complete reversal.
 
 Derrida tries to explain why this drift happens. His _différance_ is the endless spacing and deferral of meaning. Language doesn't let you say the thing—it lets you say the thing _adjacent to the thing_. The center cannot hold because there is no center, only an infinite regression of signifiers pointing to other signifiers. Words drift because of this endless pointing.
 
