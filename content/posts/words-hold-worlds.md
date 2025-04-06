@@ -5,15 +5,6 @@ draft: false
 ---
 
 
-# Author's Note: 
-
-This writing draws primarily from postmodernist thought, with Thomas Pynchon serving as a central influence. At its core lies a fascination with systems of knowledge that subsume and overwhelm the individual. Language stands as the quintessential example of such a system.
-
-While grounded in legitimate academic concepts from linguistics and philosophy, the text deliberately nudges these ideas toward the uncanny. It occupies the liminal space between scholarly discourse and ontological horror, using the formal conventions of academia not merely to inform but to unsettle.
-
-This hybrid approach employs academic authority not as an end in itself, but as a vehicle to induce a specific cognitive effect, the subtle dread that emerges when we confront the possibility that our most intimate thoughts are predetermined by linguistic structures beyond our control.
-
-
 # Part I: Words Hold Worlds
 
 _on etymology and the deep weird of language_
@@ -28,7 +19,7 @@ _on etymology and the deep weird of language_
 
 Language is powerful. It builds worlds, undoes them, and loops meaning through cultural, historical, and neural circuitry. This is an anatomy of that power.
 
-Etymology makes it obvious. Trace a word and you'll find its origin was something completely different. Consider "tall." This word once meant "swift" or "valiant" in Old English. In the tales of medieval chivalry, a "tall" knight wasn't necessarily towering in stature. When Shakespeare described someone as "tall," he often meant they were brave or capable.^[1]
+Etymology makes it obvious. Trace a word and you'll find its origin was something completely different. Consider "tall." This word once meant "swift" or "valiant" in Old English. In the tales of medieval chivalry, a "tall" knight wasn't necessarily towering in stature. When Shakespeare described someone as "tall," he often meant they were brave or capable.
 
 Why did "tall" transform from a trait of character to a physical measurement? This shift reveals something about our cultural values. We hold an unconscious belief that physical height correlates with inner virtue. We didn't randomly select "tall" to mean "of great height"; the word evolved there because humans already associated lofty stature with noble qualities.
 
@@ -74,5 +65,3 @@ What chromatic realities remain invisible to you because your language hasn't na
 
 
 [^1]: For a deeper exploration of how language shapes perception, see: Thalberg, I. & Wen, L. _Spectral Cognition: Language, Color, and the Edges of Perception_ (Aporia Press, 1994). Drawing on cross-linguistic studies and cognitive neuroscience, the authors argue that language doesn’t merely label reality, it structures the perceptual fields in which reality becomes available. Their concept of “linguistic gating” proposes that the presence or absence of specific lexical categories modulates the brain’s attentional schema, determining what is foregrounded or rendered invisible. Thalberg reportedly abandoned the project shortly after publication, citing "recurring color hallucinations" and an inability to perceive the color blue without also hearing a low, mechanical hum.
-
---- 
