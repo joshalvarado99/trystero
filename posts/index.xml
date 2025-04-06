@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on TRYSTERO</title>
-    <link>http://localhost/posts/</link>
+    <link>https://joshalvarado99.github.io/trystero/posts/</link>
     <description>Recent content in Posts on TRYSTERO</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Athul</copyright>
     <lastBuildDate>Fri, 04 Apr 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://joshalvarado99.github.io/trystero/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Words Hold Worlds</title>
-      <link>http://localhost/posts/words-hold-worlds/</link>
+      <link>https://joshalvarado99.github.io/trystero/posts/words-hold-worlds/</link>
       <pubDate>Fri, 04 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost/posts/words-hold-worlds/</guid>
+      <guid>https://joshalvarado99.github.io/trystero/posts/words-hold-worlds/</guid>
       <description>Author&amp;rsquo;s Note: This writing draws primarily from postmodernist thought, with Thomas Pynchon serving as a central influence. At its core lies a fascination with systems of knowledge that subsume and overwhelm the individual. Language stands as the quintessential example of such a system.&#xA;While grounded in legitimate academic concepts from linguistics and philosophy, the text deliberately nudges these ideas toward the uncanny. It occupies the liminal space between scholarly discourse and ontological horror, using the formal conventions of academia not merely to inform but to unsettle.</description>
     </item>
   </channel>

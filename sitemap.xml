@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost/about/</loc>
+    <loc>https://joshalvarado99.github.io/trystero/about/</loc>
     <lastmod>2025-04-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost/posts/</loc>
+    <loc>https://joshalvarado99.github.io/trystero/posts/</loc>
     <lastmod>2025-04-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost/</loc>
+    <loc>https://joshalvarado99.github.io/trystero/</loc>
     <lastmod>2025-04-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost/posts/words-hold-worlds/</loc>
+    <loc>https://joshalvarado99.github.io/trystero/posts/words-hold-worlds/</loc>
     <lastmod>2025-04-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost/categories/</loc>
+    <loc>https://joshalvarado99.github.io/trystero/categories/</loc>
   </url><url>
-    <loc>http://localhost/tags/</loc>
+    <loc>https://joshalvarado99.github.io/trystero/tags/</loc>
   </url>
 </urlset>
