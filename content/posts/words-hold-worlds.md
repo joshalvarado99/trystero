@@ -12,8 +12,7 @@ _on etymology and the deep weird of language_
 ---
 
 > "In the beginning was the Word, and the Word was a mistake."  
-> —Eliza Morgenstern, _Linguistic Aporias_ (1978).  
-[^1]
+> —Eliza Morgenstern, _Linguistic Aporias_ (1978).  (1)
 
 ### I. The Lie of Meaning
 
@@ -27,7 +26,8 @@ This seems so arbitrary. There is no advisory board of words that decided "tall"
 
 Derrida tries to explain why this drift happens. His _différance_ is the endless spacing and deferral of meaning. Language doesn't let you say the thing—it lets you say the thing _adjacent to the thing_. The center cannot hold because there is no center, only an infinite regression of signifiers pointing to other signifiers. Words drift because of this endless pointing.
 
-[^1]: The original quote appears in the now out-of-print second edition of Linguistic Aporias: Essays on Sign, Misfire, and the Failure of Language, published by the briefly operational Ironbell Press. Morgenstern, a semiotician turned conceptual artist, vanished from academia in 1982 after delivering a keynote entirely in glossolalia. Some scholars believe the quote is a misattribution from a Derridean parody she included as marginalia. Others argue it's the thesis of the entire book, footnoted back into itself.
+*Notes:* 
+*(1) The original quote appears in the now out-of-print second edition of Linguistic Aporias: Essays on Sign, Misfire, and the Failure of Language, published by the briefly operational Ironbell Press. Morgenstern, a semiotician turned conceptual artist, vanished from academia in 1982 after delivering a keynote entirely in glossolalia. Some scholars believe the quote is a misattribution from a Derridean parody she included as marginalia. Others argue it's the thesis of the entire book, footnoted back into itself.*
 
 ---
 ### II. Other Examples of Word Drift
@@ -59,9 +59,9 @@ Language doesn't only describe power, it enforces it at the level of perception 
 
 The words available to you determine what you can perceive; even something as seemingly objective as color. The Himba people of Namibia have no distinct word for "blue" but five different words for shades of green. When tested, they struggle to identify a blue square among green ones, yet can instantly spot subtle green variations invisible to English speakers. Russian speakers, with separate words for light blue ("goluboy") and dark blue ("siniy"), perceive these as fundamentally different colors; not shades of the same one. They can distinguish between these blues faster and more accurately than English speakers, for whom "blue" is blue. 
 
-These aren't just vocabulary differences; brain scans show actual perceptual variations. The color boundaries that seem so natural to you are arbitrary impositions of your particular linguistic infection.[^2] 
+These aren't just vocabulary differences; brain scans show actual perceptual variations. The color boundaries that seem so natural to you are arbitrary impositions of your particular linguistic infection. (2)
 
 What chromatic realities remain invisible to you because your language hasn't named them? To press that thought further: what thoughts are impossible for you to think because your language has no pathway to them? What realities are invisible to you because your linguistic parasite didn't evolve the sensory apparatus to detect them?
 
-
-[^2]: For a deeper exploration of how language shapes perception, see: Thalberg, I. & Wen, L. _Spectral Cognition: Language, Color, and the Edges of Perception_ (Aporia Press, 1994). Drawing on cross-linguistic studies and cognitive neuroscience, the authors argue that language doesn’t merely label reality, it structures the perceptual fields in which reality becomes available. Their concept of “linguistic gating” proposes that the presence or absence of specific lexical categories modulates the brain’s attentional schema, determining what is foregrounded or rendered invisible. Thalberg reportedly abandoned the project shortly after publication, citing "recurring color hallucinations" and an inability to perceive the color blue without also hearing a low, mechanical hum.
+*Notes:*
+*(2): For a deeper exploration of how language shapes perception, see: Thalberg, I. & Wen, L. Spectral Cognition: Language, Color, and the Edges of Perception (Aporia Press, 1994). Drawing on cross-linguistic studies and cognitive neuroscience, the authors argue that language doesn’t merely label reality, it structures the perceptual fields in which reality becomes available. Their concept of “linguistic gating” proposes that the presence or absence of specific lexical categories modulates the brain’s attentional schema, determining what is foregrounded or rendered invisible. Thalberg reportedly abandoned the project shortly after publication, citing "recurring color hallucinations" and an inability to perceive the color blue without also hearing a low, mechanical hum.*
